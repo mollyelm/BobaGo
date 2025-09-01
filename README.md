@@ -1,4 +1,4 @@
-# Boba Go! 🧋
+# Boba Go!
 
 A mobile adaptation of the popular board game Sushi Go! reimagined with bubble tea themes and strategic card gameplay.
 
